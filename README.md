@@ -1,4 +1,4 @@
 # Git Practice
 
-## Feature2
 ## Feature1
+## Feature2
